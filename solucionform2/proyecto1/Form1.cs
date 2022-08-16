@@ -25,12 +25,12 @@ namespace proyecto1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show(" BIENVENIDO FORRO !!! ");
+            MessageBox.Show(" BIENVENIDO!!! ");
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            MessageBox.Show("gracias hijo de puta");
+            MessageBox.Show("gracias");
         }
     }
 }
